@@ -1,0 +1,12 @@
+.elementor-widget-show-email-button-button {
+    display: inline-block;
+    background-color: #d30c5c;
+    color: #ffffff;
+    border-radius: 5px;
+    padding: 0px 10px;
+    cursor: pointer;
+}
+.elementor-widget-show-email-button-mail a {
+    display: inline-block;
+    color: #7a7a7a;
+}
