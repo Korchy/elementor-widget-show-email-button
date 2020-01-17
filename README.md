@@ -5,3 +5,4 @@ Allows don't store your contact e-mail to your page explicitly, to prevent gathe
 
 Hides it behind a button, and shows only after user click this button.
 
+<img src="https://progr.interplanety.org/wp-content/upload_content/2020/01/preview_01_670x335-400x200.jpg">
