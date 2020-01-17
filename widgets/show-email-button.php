@@ -1,5 +1,8 @@
 <?php
 /*
+Nikita Akimov
+interplanety@interplanety.org
+
 Elementor Vidget class: Show E-mail button
 */
 

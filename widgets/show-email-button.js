@@ -1,3 +1,6 @@
+// Nikita Akimov
+// interplanety@interplanety.org
+
 jQuery(window).on('elementor/frontend/init', () => {
     const addHandler = ($element) => {
         elementorFrontend.elementsHandler.addHandler(ElementorWidgetShowEmailButton, {

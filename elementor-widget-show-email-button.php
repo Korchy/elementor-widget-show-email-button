@@ -2,7 +2,8 @@
 /*
 Plugin Name: Elementor widget: Show E-mail button
 Version: 1.0.0
-Author: Korchiy
+Plugin URI: https://progr.interplanety.org/en/elementor-widget%E2%80%A6ow-e-mail-button/
+Author:  Nikita Akimov
 Description: Widget for Elementor: Show E-mail button
 */
 
